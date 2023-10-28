@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin_Basic_App</string>
+    <string name="shahed_hasan">Shahed Hasan</string>
+    <string name="hello_world">Hello world</string>
+</resources>
